@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+<object Filename="DDC000072.jpg" height="62.0000000000" rank="1" views="3864" OnView="0">
+  <o ObjectID="299843" ObjectNumber="1951.65" Dated="1888" DateBegin="1888" DateEnd="1888" Classification="Paintings" Culture="Dutch" Century="19th century">
+    <wt TitleType="Title" Title="Self-Portrait Dedicated to Paul Gauguin">
+      <wcl Role="Artist" DisplayName="Vincent van Gogh" />
+    </wt>
+  </o>
+</object>
+<object Filename="30127.jpg" height="110.0000000000" rank="2" views="2890" OnView="0">
+  <o ObjectID="228649" ObjectNumber="1951.53" Dated="1877" DateBegin="1877" DateEnd="1877" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="The Gare Saint-Lazare: Arrival of a Train">
+      <wcl Role="Artist" DisplayName="Claude Monet" />
+    </wt>
+  </o>
+</object>
+<object Filename="51355.jpg" height="72.0000000000" rank="3" views="2678" OnView="1">
+  <o ObjectID="299806" ObjectNumber="1943.251" Dated="1839-1840" DateBegin="1839" DateEnd="1840" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Odalisque with a Slave">
+      <wcl Role="Artist" DisplayName="Jean-Auguste-Dominique Ingres" />
+    </wt>
+  </o>
+</object>
+<object Filename="51172.jpg" height="54.0000000000" rank="4" views="2393" OnView="0">
+  <o ObjectID="299794" ObjectNumber="1943.150" Dated="1883 - 1884" DateBegin="1883" DateEnd="1884" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="The Breakfast Table">
+      <wcl Role="Artist" DisplayName="John Singer Sargent" />
+    </wt>
+  </o>
+</object>
+<object Filename="21476.jpg" height="34.0000000000" rank="5" views="2336" OnView="0">
+  <o ObjectID="299997" ObjectNumber="1965.318" Dated="1903-1904" DateBegin="1903" DateEnd="1904" Classification="Drawings" Culture="Spanish" Century="20th century">
+    <wt TitleType="Title" Title="A Mother and Child and Four Studies of Her Right Hand, 1904; verso:  Self-Portrait Standing, 1903">
+      <wcl Role="Artist" DisplayName="Pablo Ruiz Picasso" />
+    </wt>
+  </o>
+</object>
+<object Filename="78701.jpg" height="140.0000000000" rank="6" views="2005" OnView="0">
+  <o ObjectID="304344" ObjectNumber="BR41.37" Dated="1927" DateBegin="1927" DateEnd="1927" Classification="Paintings" Culture="German" Century="20th century">
+    <wt TitleType="Title" Title="Self-Portrait in Tuxedo">
+      <wcl Role="Artist" DisplayName="Max Beckmann" />
+    </wt>
+  </o>
+</object>
+<object Filename="46867.jpg" height="37.0000000000" rank="7" views="1915" OnView="0">
+  <o ObjectID="219603" ObjectNumber="1981.19" Dated="1749-1750" DateBegin="1749" DateEnd="1750" Classification="Paintings" Culture="German" Century="18th century">
+    <wt TitleType="Title" Title="Portrait of an Old Woman">
+      <wcl Role="Artist" DisplayName="Christian Seybold" />
+    </wt>
+  </o>
+</object>
+<object Filename="21161.jpg" height="72.0000000000" rank="8" views="1672" OnView="0">
+  <o ObjectID="299959" ObjectNumber="1949.76" Dated="c. 1765" DateBegin="1760" DateEnd="1770" Classification="Paintings" Culture="Italian" Century="18th century">
+    <wt TitleType="Title" Title="The Apotheosis of Aeneas">
+      <wcl Role="Artist" DisplayName="Giovanni Battista Tiepolo" />
+    </wt>
+  </o>
+</object>
+<object Filename="49152.jpg" height="27.0000000000" rank="9" views="1613" OnView="0">
+  <o ObjectID="227899" ObjectNumber="1969.83" Dated="early 16th century" DateBegin="1500" DateEnd="1532" Classification="Paintings" Culture="Netherlandish" Century="16th century">
+    <wt TitleType="Title" Title="Woman at Her Toilet">
+      <wcl Role="Artist" DisplayName="Unidentified Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC107004.jpg" height="28.0000000000" rank="10" views="1358" OnView="0">
+  <o ObjectID="330038" ObjectNumber="2008.235" Dated="2005" DateBegin="2005" DateEnd="2005" Classification="Photographs" Culture="Indian" Century="21st century" Description="This series consists of 14 color photographs that depict the artist, Atul Bhalla, slowly submerging himself in the Yamuna River in Delhi. The photographs are vertical in format and intended to be viewed in a linear series which shows the progression of the central figure into the water. The color palette of the series is warm, with a combination of Bhalla's flesh, the calm water surface, which mirrors a bright sky, Bhalla, and a hazy green line of trees on the bank in the background.  The soft quality of the trees and the reflections in the water contrast with the sharply defined contours of the artist's portrait. These light-filled images appear to almost glow on their own, an effect that is likely enhanced by the refracting light passing through the plexiglass face mounting.">
+    <wt TitleType="Title" Title="I Was Not Waving But Drowning II">
+      <wcl Role="Artist" DisplayName="Atul Bhalla" />
+    </wt>
+  </o>
+</object>
+<object Filename="13357.jpg" height="112.0000000000" rank="11" views="1246" OnView="0">
+  <o ObjectID="299993" ObjectNumber="1951.57" Dated="c. 1901" DateBegin="1896" DateEnd="1906" Classification="Paintings" Culture="Spanish" Century="19th-20th centuries">
+    <wt TitleType="Title" Title="Mother and Child">
+      <wcl Role="Artist" DisplayName="Pablo Ruiz Picasso" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC105909.jpg" height="107.0000000000" rank="13" views="1183" OnView="0">
+  <o ObjectID="323544" ObjectNumber="2007.225" Dated="1970" DateBegin="1970" DateEnd="1970" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Summer Orange">
+      <wcl Role="Artist" DisplayName="Joan Snyder" />
+    </wt>
+  </o>
+</object>
+<object Filename="30126.jpg" height="98.0000000000" rank="12" views="1183" OnView="0">
+  <o ObjectID="231994" ObjectNumber="1916.496" Dated="1916" DateBegin="1916" DateEnd="1916" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Lake O'Hara">
+      <wcl Role="Artist" DisplayName="John Singer Sargent" />
+    </wt>
+  </o>
+</object>
+<object Filename="51366.jpg" height="81.0000000000" rank="14" views="1167" OnView="1">
+  <o ObjectID="303561" ObjectNumber="1966.47" Dated="1758" DateBegin="1758" DateEnd="1758" Classification="Paintings" Culture="French" Century="18th century">
+    <wt TitleType="Title" Title="Jeanne-Antoinette Poisson, Marquise de Pompadour">
+      <wcl Role="Artist" DisplayName="François Boucher" />
+    </wt>
+  </o>
+</object>
+<object Filename="51492.jpg" height="77.0000000000" rank="15" views="1058" OnView="0">
+  <o ObjectID="230048" ObjectNumber="1943.180" Dated="c. 1810" DateBegin="1805" DateEnd="1815" Classification="Paintings" Culture="British" Century="19th century">
+    <wt TitleType="Title" Title="Christ Blessing">
+      <wcl Role="Artist" DisplayName="William Blake" />
+    </wt>
+  </o>
+</object>
+<object Filename="52184.jpg" height="25.0000000000" rank="16" views="1025" OnView="0">
+  <o ObjectID="215331" ObjectNumber="1985.216" Dated="c. 1560-1575" DateBegin="1560" DateEnd="1575" Classification="Manuscripts" Culture="Turkish" Century="16th century">
+    <wt TitleType="Title" Title="Manuscript of the Rawda al-Ushshaq (Garden of Lovers) of Arifi, with three paintings">
+      <wcl Role="Artist" DisplayName="Unknown Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="51655.jpg" height="47.0000000000" rank="17" views="1004" OnView="0">
+  <o ObjectID="303496" ObjectNumber="1951.47" Dated="c. 1873-1878" DateBegin="1873" DateEnd="1878" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="The Rehearsal">
+      <wcl Role="Artist" DisplayName="Hilaire-Germain-Edgar Degas" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC112827.jpg" height="49.0000000000" rank="18" views="991" OnView="1">
+  <o ObjectID="299966" ObjectNumber="1942.174" Dated="1635" DateBegin="1635" DateEnd="1635" Classification="Paintings" Culture="Flemish" Century="17th century">
+    <wt TitleType="Title" Title="The Voyage of the Cardinal Infante Ferdinand of Spain from Barcelona to Genoa in April 1633, with Neptune Calming the Tempest">
+      <wcl Role="Artist" DisplayName="Peter Paul Rubens" />
+    </wt>
+  </o>
+</object>
+<object Filename="50868.jpg" height="279.0000000000" rank="19" views="920" OnView="0">
+  <o ObjectID="299931" ObjectNumber="1965.554" Dated="1950" DateBegin="1950" DateEnd="1950" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="No. 2">
+      <wcl Role="Artist" DisplayName="Jackson Pollock" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC111366.jpg" height="123.0000000000" rank="20" views="886" OnView="0">
+  <o ObjectID="303674" ObjectNumber="1926.48" Dated="100-200 AD" DateBegin="100" DateEnd="200" Classification="Sculpture" Culture="Roman" Century="2nd century AD" Description="A good number of copies of the lost original (which was probably in bronze) show a Greek hero, with a head like those of Skopas and a body influenced by the work of Lysippos, either leaning on a staff or with a spear against the left shoulder. The presence of a boar's head by the left foot and, seemingly, a hound at the subject's right side, plus the relationship to Skopas's sculptures for the temple of Tegea, have given rise to the identification of the subject as Meleager, hunter of the Calydonian boar, and the sculptor as Skopas.  &#xD;&#xA;&#xD;&#xA;While the original and its numerous, variant copies all show an ideal hero and have nothing to do with Greek portraiture, a head from a statue, now at Houghton Hall in Norfolk, was carved as a likeness of a Hellenistic ruler, surely a Seleucid. The marble was a copy of the Antonine period after an original based on Skopas's statue (Oehler, 1980, p. 73, no. 66, pl. 22).  &#xD;&#xA;&#xD;&#xA;Along with the head and torso of the statue as rejoined (most recently in 1961-1962) came eighteen fragments that may belong to the base (Hanfmann, Pedley, 1964, p. 62). Three fragments joined to form the hero's lower leg.  Another fragment is part of the thigh. Two fragments seem to have been parts of Meleager's dog and boar's head and three fragments joined to form what might have been part of the stick(?) on which Meleager leaned and part of a chlamys falling down the left arm.  &#xD;&#xA;&#xD;&#xA;The chief difference in the Harvard copy and its mate from Santa Marinella in Berlin, one of the touchstones for the group of copies, is that the javelin held in the left hand has been replaced by a staff lodged under the left arm. The feeling is that both the boar's head and the dog were part of the original composition in bronze, the latter beside the hero's right leg and the former by his left foot.&#xD;&#xA;&#xD;&#xA;While the more slender and youthful &quot;boy victor&quot; (Narcissus) after Polykleitos could be identified as Adonis when a boar's head was added to the support on which the lad leaned, there is no question here that the more mature, more formidable figure of Meleager was intended, not the least reason being that a Meleager based on this Skopasian statue appears frequently as the protagonist on sarcophagi.&#xD;&#xA;&#xD;&#xA;Catalogue entry from: Stone Sculptures: The Greek, Roman, and Etruscan Collections of the Harvard University Art Museums; Cornelius C. Vermeule and Amy Brauer, HUAM, Cambridge, 1990.">
+    <wt TitleType="Title" Title="Statue of Meleager, Roman copy of a 4th-century BC Greek original">
+      <wcl Prefix="After" Role="Artist" DisplayName="Skopas" />
+    </wt>
+  </o>
+</object>
+<object Filename="18660.jpg" height="47.0000000000" rank="21" views="885" OnView="0">
+  <o ObjectID="229060" ObjectNumber="1951.63" Dated="1887-1889" DateBegin="1887" DateEnd="1889" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="The Hangover (Suzanne Valadon)">
+      <wcl Role="Artist" DisplayName="Henri de Toulouse-Lautrec" />
+    </wt>
+  </o>
+</object>
+<object Filename="60791.jpg" height="39.0000000000" rank="22" views="876" OnView="1">
+  <o ObjectID="181354" ObjectNumber="2000.1" Dated="1922" DateBegin="1922" DateEnd="1922" Classification="Paintings" Culture="Dutch" Century="20th century">
+    <wt TitleType="Title" Title="Composition with Blue, Black, Yellow, and Red">
+      <wcl Role="Artist" DisplayName="Piet Mondriaan" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC111383.jpg" height="88.0000000000" rank="23" views="865" OnView="0">
+  <o ObjectID="331244" ObjectNumber="2009.48" Dated="late 17th century" DateBegin="17" DateEnd="17" Classification="Sculpture" Culture="Italian" Century="17th century">
+    <wt TitleType="Title" Title="&quot;Barberini Faun&quot;">
+      <wcl Role="Artist" DisplayName="Unidentified Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="LEG934.jpg" height="100.0000000000" rank="24" views="859" OnView="1">
+  <o ObjectID="299919" ObjectNumber="1976.10" Dated="c. 1610" DateBegin="1605" DateEnd="1615" Classification="Paintings" Culture="Italian" Century="17th century">
+    <wt TitleType="Title" Title="The Virgin with the Sleeping Christ Child">
+      <wcl Role="Artist" DisplayName="Orazio Gentileschi" />
+    </wt>
+  </o>
+</object>
+<object Filename="50920.jpg" height="101.0000000000" rank="25" views="848" OnView="0">
+  <o ObjectID="299849" ObjectNumber="BR66.4" Dated="1903 (later reworked)" DateBegin="1903" DateEnd="1903" Classification="Paintings" Culture="Austrian" Century="20th century">
+    <wt TitleType="Title" Title="Pear Tree">
+      <wcl Role="Artist" DisplayName="Gustav Klimt" />
+    </wt>
+  </o>
+</object>
+<object Filename="48997.jpg" height="56.0000000000" rank="26" views="810" OnView="0">
+  <o ObjectID="306830" ObjectNumber="1934.182" Dated="1934" DateBegin="1934" DateEnd="1934" Classification="Drawings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Feline Felicity">
+      <wcl Role="Artist" DisplayName="Charles Sheeler" />
+    </wt>
+  </o>
+</object>
+<object Filename="71188.jpg" height="50.0000000000" rank="27" views="776" OnView="0">
+  <o ObjectID="216944" ObjectNumber="1955.167" Dated="c. 1330-1340" DateBegin="1330" DateEnd="1340" Classification="Paintings with Text" Culture="Persian" Century="14th century" Description="Recto: Text: 31 lines of naskhi in 6 columns, including one heading:&#xD;&#xA;&quot;Iskandar's letter to the Fur of Hind&quot; (reserved against a ground of red hatching with blue dots.)&#xD;&#xA;Verso: Text: 10 lines of naskhi in 6 columns, including one picture caption&#xD;&#xA;&quot;Iskandar battling with the Fur of Hind and Picture of the Iron Horses and Soldiers&quot; (reserved against a ground of faint red spirals and blue dots)&#xD;&#xA;Written in lower margin: &quot;Alexander&quot;&#xD;&#xA;">
+    <wt TitleType="Title" Title="Iskandar's Iron Cavalry Battles King Fur of Hind (text, recto; painting, verso), folio from a manuscript of the Great Il-Khanid Shahnama (Book of Kings)">
+      <wcl Role="Artist" DisplayName="Unknown Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="50587.jpg" height="105.0000000000" rank="28" views="757" OnView="0">
+  <o ObjectID="303729" ObjectNumber="1943.277" Dated="1866" DateBegin="1866" DateEnd="1866" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Spring Bouquet">
+      <wcl Role="Artist" DisplayName="Pierre-Auguste Renoir" />
+    </wt>
+  </o>
+</object>
+<object Filename="71385.jpg" height="31.0000000000" rank="29" views="745" OnView="0">
+  <o ObjectID="297471" ObjectNumber="1951.70" Dated="c. 1884-1888" DateBegin="1884" DateEnd="1888" Classification="Drawings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Woman Seated by an Easel">
+      <wcl Role="Artist" DisplayName="Georges Pierre Seurat" />
+    </wt>
+  </o>
+</object>
+<object Filename="77644.jpg" height="53.0000000000" rank="31" views="725" OnView="0">
+  <o ObjectID="228652" ObjectNumber="1951.68" Dated="c. 1878" DateBegin="1873" DateEnd="1883" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Chanteuse de Café">
+      <wcl Role="Artist" DisplayName="Hilaire-Germain-Edgar Degas" />
+    </wt>
+  </o>
+</object>
+<object Filename="50409.jpg" height="72.0000000000" rank="30" views="725" OnView="0">
+  <o ObjectID="299923" ObjectNumber="1924.27" Dated="c. 1500" DateBegin="1495" DateEnd="1505" Classification="Paintings" Culture="Italian" Century="15th-16th centuries">
+    <wt TitleType="Title" Title="Mystic Crucifixion">
+      <wcl Role="Artist" DisplayName="Sandro Botticelli (Alessandro Filipepi)" />
+    </wt>
+  </o>
+</object>
+<object Filename="53737.jpg" height="152.0000000000" rank="32" views="724" OnView="0">
+  <o ObjectID="186819" ObjectNumber="2000.240" Dated="1999" DateBegin="1999" DateEnd="1999" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Highland, Franklin, Yucca">
+      <wcl Role="Artist" DisplayName="Edward Ruscha" />
+    </wt>
+  </o>
+</object>
+<object Filename="51429.jpg" height="216.0000000000" rank="33" views="715" OnView="0">
+  <o ObjectID="230409" ObjectNumber="1942.186" Dated="1856-1865" DateBegin="1856" DateEnd="1865" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="The Young Man and Death">
+      <wcl Role="Artist" DisplayName="Gustave Moreau" />
+    </wt>
+  </o>
+</object>
+<object Filename="77294.jpg" height="21.0000000000" rank="34" views="697" OnView="0">
+  <o ObjectID="279344" ObjectNumber="G3264" Dated="1643" DateBegin="1643" DateEnd="1643" Classification="Prints" Culture="Dutch" Century="17th century">
+    <wt TitleType="Title" Title="The Three Trees">
+      <wcl Role="Artist" DisplayName="Rembrandt Harmensz van Rijn" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC104925.jpg" height="212.0000000000" rank="35" views="688" OnView="0">
+  <o ObjectID="304462" ObjectNumber="1929.234" Dated="c. 1325-1330" DateBegin="1325" DateEnd="1330" Classification="Paintings" Culture="Italian" Century="14th century">
+    <wt TitleType="Title" Title="The Stigmatization of Saint Francis">
+      <wcl Role="Artist" DisplayName="Taddeo Gaddi" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC105029.jpg" height="53.0000000000" rank="36" views="678" OnView="0">
+  <o ObjectID="230910" ObjectNumber="1937.51" Dated="c. 1628" DateBegin="1623" DateEnd="1633" Classification="Sculpture" Culture="Italian" Century="17th century">
+    <wt TitleType="Title" Title="Saint Longinus">
+      <wcl Role="Artist" DisplayName="Gian Lorenzo Bernini" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC108668.jpg" height="65.0000000000" rank="37" views="676" OnView="0">
+  <o ObjectID="332840" ObjectNumber="2009.82" Dated="2005-2009" DateBegin="2005" DateEnd="2009" Classification="Paintings" Culture="Chinese" Century="21st century" Description="Painted in ink and colors on paper, this horizontal wall scroll depicts a highly abstracted, old cypress tree that transforms itself into a highly abstracted dragon, as it title suggests. The cypress tree and its trunk, branches, and leaves are painted with detailed brushstrokes, while the mists surrounding the tree were created through the use of highly controlled washes of ink and pigment.">
+    <wt TitleType="Title" Title="Dragon Cypress">
+      <wcl Role="Artist" DisplayName="Luo Jianwu" />
+    </wt>
+  </o>
+</object>
+<object Filename="18663.jpg" height="50.0000000000" rank="38" views="660" OnView="0">
+  <o ObjectID="228744" ObjectNumber="1951.66" Dated="1886-1887" DateBegin="1886" DateEnd="1887" Classification="Paintings" Culture="Dutch" Century="19th century">
+    <wt TitleType="Title" Title="Three Pairs of Shoes">
+      <wcl Role="Artist" DisplayName="Vincent van Gogh" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC102192.jpg" height="123.0000000000" rank="39" views="615" OnView="0">
+  <o ObjectID="299847" ObjectNumber="1942.167" Dated="1657" DateBegin="1657" DateEnd="1657" Classification="Paintings" Culture="French" Century="17th century">
+    <wt TitleType="Title" Title="The Infant Bacchus Entrusted to the Nymphs of Nysa; The Death of Echo and Narcissus">
+      <wcl Role="Artist" DisplayName="Nicolas Poussin" />
+    </wt>
+  </o>
+</object>
+<object Filename="21330.jpg" height="92.0000000000" rank="40" views="608" OnView="0">
+  <o ObjectID="299842" ObjectNumber="1951.50" Dated="1877" DateBegin="1877" DateEnd="1877" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Skating">
+      <wcl Role="Artist" DisplayName="Edouard Manet" />
+    </wt>
+  </o>
+</object>
+<object Filename="73306.jpg" height="63.0000000000" rank="41" views="568" OnView="0">
+  <o ObjectID="143495" ObjectNumber="2002.96" Dated="1905" DateBegin="1905" DateEnd="1905" Classification="Paintings" Culture="German" Century="20th century">
+    <wt TitleType="Title" Title="Wounded Amazon">
+      <wcl Role="Artist" DisplayName="Franz von Stuck" />
+    </wt>
+  </o>
+</object>
+<object Filename="30680.jpg" height="73.0000000000" rank="42" views="564" OnView="0">
+  <o ObjectID="299846" ObjectNumber="1933.97" Dated="1929" DateBegin="1929" DateEnd="1929" Classification="Paintings" Culture="American" Century="19th-20th centuries">
+    <wt TitleType="Title" Title="Upper Deck">
+      <wcl Role="Artist" DisplayName="Charles Sheeler" />
+    </wt>
+  </o>
+</object>
+<object Filename="LEG008248.jpg" height="114.0000000000" rank="43" views="546" OnView="0">
+  <o ObjectID="336309" ObjectNumber="2010.544" Dated="1999-2010" DateBegin="1999" DateEnd="2010" Classification="Sculpture" Culture="American" Century="21st century">
+    <wt TitleType="Title" Title="Untitled">
+      <wcl Role="Artist" DisplayName="Robert Gober" />
+    </wt>
+  </o>
+</object>
+<object Filename="30488.jpg" height="65.0000000000" rank="44" views="544" OnView="1">
+  <o ObjectID="299807" ObjectNumber="1943.252" Dated="1814" DateBegin="1814" DateEnd="1814" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Raphael and the Fornarina">
+      <wcl Role="Artist" DisplayName="Jean-Auguste-Dominique Ingres" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC104121.jpg" height="80.0000000000" rank="45" views="541" OnView="1">
+  <o ObjectID="317862" ObjectNumber="2006.236" Dated="2006" DateBegin="2006" DateEnd="2006" Classification="Sculpture" Culture="German" Century="21st century" Description="Ceramic made (we think) from a mould formed from rare meat. Intense, unevenly applied, red glaze maintains the strong allusion to blood and flesh. The organic forms are structured by the rectilinear &quot;grid&quot; of a central spine and &quot;ribs&quot;, the slats and wooden structure of the eponymous &quot;Shutter.&quot;&#xD;&#xA;&#xD;&#xA;Information is being sought from the artist and her dealer concerning the exact technique.">
+    <wt TitleType="Title" Title="Shutter (c)">
+      <wcl Role="Artist" DisplayName="Rosemarie Trockel" />
+    </wt>
+  </o>
+</object>
+<object Filename="80900.jpg" height="197.0000000000" rank="46" views="529" OnView="0">
+  <o ObjectID="228647" ObjectNumber="1958.84" Dated="1956" DateBegin="1956" DateEnd="1956" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Passage to Aetna">
+      <wcl Role="Artist" DisplayName="Peter Blume" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC111674.jpg" height="52.0000000000" rank="47" views="517" OnView="0">
+  <o ObjectID="318663" ObjectNumber="2007.31" Dated="1937-1938" DateBegin="1937" DateEnd="1938" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Untitled (The Cow Jumps Over the Moon)">
+      <wcl Role="Artist" DisplayName="Willem de Kooning" />
+    </wt>
+  </o>
+</object>
+<object Filename="11598.jpg" height="74.0000000000" rank="48" views="514" OnView="1">
+  <o ObjectID="222214" ObjectNumber="1979.329" Dated="1903" DateBegin="1903" DateEnd="1903" Classification="Paintings" Culture="French" Century="20th century">
+    <wt TitleType="Title" Title="Charing Cross Bridge:  Fog on the Thames">
+      <wcl Role="Artist" DisplayName="Claude Monet" />
+    </wt>
+  </o>
+</object>
+<object Filename="51827.jpg" height="137.0000000000" rank="49" views="497" OnView="0">
+  <o ObjectID="299805" ObjectNumber="1943.202" Dated="1871-1878" DateBegin="1871" DateEnd="1878" Classification="Paintings" Culture="British" Century="19th century">
+    <wt TitleType="Title" Title="The Blessed Damozel">
+      <wcl Role="Artist" DisplayName="Dante Gabriel Rossetti" />
+    </wt>
+  </o>
+</object>
+<object Filename="INV021425.jpg" height="26.0000000000" rank="50" views="492" OnView="0">
+  <o ObjectID="209255" ObjectNumber="1928.15.42" Dated="Late Edo period, circa 1814" DateBegin="1814" DateEnd="1814" Classification="Prints" Culture="Japanese" Century="19th century">
+    <wt TitleType="Title" Title="Illustrations of Glass Flowers (Sôka ryakugashiki)">
+      <wcl Role="Artist" DisplayName="Kuwagata Keisai" />
+    </wt>
+  </o>
+</object>
+<object Filename="LEG6528.jpg" height="61.0000000000" rank="51" views="482" OnView="0">
+  <o ObjectID="304956" ObjectNumber="H575" DateBegin="0" DateEnd="0" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="William Zebina Ripley (1867-1941)">
+      <wcl Role="Artist" DisplayName="Nicolai Ivanovich Fechin" />
+    </wt>
+  </o>
+</object>
+<object Filename="30109.jpg" height="160.0000000000" rank="52" views="476" OnView="1">
+  <o ObjectID="230640" ObjectNumber="1937.78" Dated="1869" DateBegin="1869" DateEnd="1869" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Summer Scene">
+      <wcl Role="Artist" DisplayName="Jean Frédéric Bazille" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC102354.jpg" height="151.0000000000" rank="53" views="468" OnView="0">
+  <o ObjectID="318198" ObjectNumber="2007.105" Dated="2006" DateBegin="2006" DateEnd="2006" Classification="Sculpture" Culture="Unidentified culture" Century="21st century">
+    <wt TitleType="Title" Title="Light Prop for an Electric Stage, 1929-30. Exhibition replica, constructed in 2006, through the courtesy of Hattula Moholy-Nagy.">
+      <wcl Role="Artist" DisplayName="László Moholy-Nagy" />
+    </wt>
+  </o>
+</object>
+<object Filename="INV048286.jpg" height="35.0000000000" rank="54" views="466" OnView="0">
+  <o ObjectID="253578" ObjectNumber="M22843" Dated="1991" DateBegin="1991" DateEnd="1991" Classification="Prints" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="The New World Order">
+      <wcl Role="Artist" DisplayName="Sue Coe" />
+    </wt>
+  </o>
+</object>
+<object Filename="70717.jpg" height="13.0000000000" rank="55" views="463" OnView="0">
+  <o ObjectID="216547" ObjectNumber="1950.130" Dated="mid 17th century" DateBegin="1633" DateEnd="1666" Classification="Paintings" Culture="Persian" Century="17th century">
+    <wt TitleType="Title" Title="Lovers' Dalliance">
+      <wcl Role="Artist" DisplayName="Muhammad Qasim" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC110956.jpg" height="22.0000000000" rank="56" views="461" OnView="1">
+  <o ObjectID="336539" ObjectNumber="2011.454" Dated="1810" DateBegin="1810" DateEnd="1810" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Portrait of a Woman (Sophie de Bawr?)">
+      <wcl Role="Artist" DisplayName="Louis-Léopold Boilly" />
+    </wt>
+  </o>
+</object>
+<object Filename="30464.jpg" height="91.0000000000" rank="57" views="460" OnView="0">
+  <o ObjectID="228650" ObjectNumber="1951.54" Dated="1875" DateBegin="1875" DateEnd="1875" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Red Boats, Argenteuil">
+      <wcl Role="Artist" DisplayName="Claude Monet" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC100587.jpg" height="41.0000000000" rank="58" views="454" OnView="0">
+  <o ObjectID="312684" ObjectNumber="2006.49" Dated="1925" DateBegin="1925" DateEnd="1925" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Red and Pink">
+      <wcl Role="Artist" DisplayName="Georgia O'Keeffe" />
+    </wt>
+  </o>
+</object>
+<object Filename="71657.jpg" height="23.0000000000" rank="59" views="451" OnView="0">
+  <o ObjectID="178555" ObjectNumber="2000.199" Dated="c. 1639" DateBegin="1634" DateEnd="1644" Classification="Paintings" Culture="Flemish" Century="17th century">
+    <wt TitleType="Title" Title="Hercules Strangling the Nemean Lion">
+      <wcl Role="Artist" DisplayName="Peter Paul Rubens" />
+    </wt>
+  </o>
+</object>
+<object Filename="21018.jpg" height="35.0000000000" rank="60" views="450" OnView="0">
+  <o ObjectID="306171" ObjectNumber="1924.30" Dated="1897" DateBegin="1897" DateEnd="1897" Classification="Drawings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Canoe in Rapids">
+      <wcl Role="Artist" DisplayName="Winslow Homer" />
+    </wt>
+  </o>
+</object>
+<object Filename="51433.jpg" height="70.0000000000" rank="61" views="448" OnView="0">
+  <o ObjectID="230112" ObjectNumber="1943.265" Dated="c. 1876" DateBegin="1871" DateEnd="1881" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Saint Sebastian and the Angel">
+      <wcl Role="Artist" DisplayName="Gustave Moreau" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC104944.jpg" height="97.0000000000" rank="62" views="444" OnView="1">
+  <o ObjectID="300013" ObjectNumber="1921.34" Dated="c. 1446" DateBegin="1441" DateEnd="1451" Classification="Paintings" Culture="Italian" Century="15th century">
+    <wt TitleType="Title" Title="Christ on the Cross between the Virgin and Cardinal Torquemada and Saint John the Evangelist">
+      <wcl Role="Artist" DisplayName="Fra Angelico" />
+    </wt>
+  </o>
+</object>
+<object Filename="77300.jpg" height="37.0000000000" rank="63" views="432" OnView="0">
+  <o ObjectID="171292" ObjectNumber="52.2001" Dated="c. 1503-1505" DateBegin="1503" DateEnd="1505" Classification="Drawings" Culture="Italian" Century="16th century">
+    <wt TitleType="Title" Title="St. Benedict Receiving Mauro and Placido">
+      <wcl Role="Artist" DisplayName="Raphael" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC105910.jpg" height="51.0000000000" rank="64" views="429" OnView="0">
+  <o ObjectID="326529" ObjectNumber="2008.103" Dated="1952" DateBegin="1952" DateEnd="1952" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Ventriloquist">
+      <wcl Role="Artist" DisplayName="Jacob Lawrence" />
+    </wt>
+  </o>
+</object>
+<object Filename="INV058314.jpg" height="123.0000000000" rank="65" views="422" OnView="0">
+  <o ObjectID="231904" ObjectNumber="1895.695" Dated="1876" DateBegin="1876" DateEnd="1876" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Rock of Ages">
+      <wcl Role="Artist" DisplayName="Johannes Adam Simon Oertel" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC231549.jpg" height="100.0000000000" rank="66" views="419" OnView="0">
+  <o ObjectID="228385" ObjectNumber="1961.26" Dated="c. 1524-1530" DateBegin="1524" DateEnd="1530" Classification="Paintings" Culture="Netherlandish" Century="16th century">
+    <wt TitleType="Title" Title="Saint Jerome in His Study">
+      <wcl Role="Artist" DisplayName="Joos van Cleve" />
+    </wt>
+  </o>
+</object>
+<object Filename="SCAN50924.jpg" height="73.0000000000" rank="67" views="418" OnView="0">
+  <o ObjectID="303587" ObjectNumber="S52" Dated="1871" DateBegin="1871" DateEnd="1871" Classification="Sculpture" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Henry Wadsworth Longfellow (1807-1882)">
+      <wcl Role="Artist" DisplayName="Edmonia Lewis" />
+    </wt>
+  </o>
+</object>
+<object Filename="73619.jpg" height="148.0000000000" rank="68" views="417" OnView="0">
+  <o ObjectID="227867" ObjectNumber="1971.121" Dated="1950" DateBegin="1950" DateEnd="1950" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="High Street">
+      <wcl Role="Artist" DisplayName="Franz Kline" />
+    </wt>
+  </o>
+</object>
+<object Filename="LEG004963.jpg" height="165.0000000000" rank="69" views="416" OnView="0">
+  <o ObjectID="320057" ObjectNumber="2007.128" Dated="2007" DateBegin="2007" DateEnd="2007" Classification="Sculpture" Culture="American" Century="21st century">
+    <wt TitleType="Title" Title="I'm With Stupid">
+      <wcl Role="Artist" DisplayName="Rachel Harrison" />
+    </wt>
+  </o>
+</object>
+<object Filename="51196.jpg" height="45.0000000000" rank="70" views="408" OnView="1">
+  <o ObjectID="299838" ObjectNumber="1943.176" Dated="c. 1871-1872" DateBegin="1871" DateEnd="1872" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Nocturne in Blue and Silver">
+      <wcl Role="Artist" DisplayName="James Abbott McNeill Whistler" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC100812.jpg" height="22.0000000000" rank="71" views="391" OnView="0">
+  <o ObjectID="298163" ObjectNumber="1943.387" Dated="1864" DateBegin="1864" DateEnd="1864" Classification="Drawings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Race Course at Longchamp; verso: Section of grandstand area">
+      <wcl Role="Artist" DisplayName="Edouard Manet" />
+    </wt>
+  </o>
+</object>
+<object Filename="39164.jpg" height="67.0000000000" rank="73" views="389" OnView="0">
+  <o ObjectID="231830" ObjectNumber="1930.191" Dated="1632" DateBegin="1632" DateEnd="1632" Classification="Paintings" Culture="Dutch" Century="17th century">
+    <wt TitleType="Title" Title="Portrait of an Old Man">
+      <wcl Role="Artist" DisplayName="Rembrandt Harmensz van Rijn" />
+    </wt>
+  </o>
+</object>
+<object Filename="51571.jpg" height="185.0000000000" rank="72" views="389" OnView="0">
+  <o ObjectID="230130" ObjectNumber="1943.262" Dated="c. 1876-c. 1878" DateBegin="1876" DateEnd="1878" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="The Infant Moses">
+      <wcl Role="Artist" DisplayName="Gustave Moreau" />
+    </wt>
+  </o>
+</object>
+<object Filename="49101.jpg" height="38.0000000000" rank="74" views="383" OnView="1">
+  <o ObjectID="303416" ObjectNumber="1972.40" Dated="510 BC-500 BC" DateBegin="-510" DateEnd="-500" Classification="Vessels" Culture="Greek" Century="6th century BC">
+    <wt TitleType="Title" Title="Attic Red-figure Hydria: The Ransom of Hector">
+      <wcl Role="Artist" DisplayName="The Pioneer Group" />
+    </wt>
+  </o>
+</object>
+<object Filename="88783.jpg" height="24.0000000000" rank="75" views="377" OnView="0">
+  <o ObjectID="286037" ObjectNumber="P1973.54" Dated="c. 1850 - c. 1856" DateBegin="1850" DateEnd="1856" Classification="Photographs" Culture="American" Century="19th century" Description="An 1895 newspaper taped to the verso of the plate may indicate the date of a previous rehousing or rebinding.">
+    <wt TitleType="Title" Title="Oliver Wendell Holmes (1809-1894)">
+      <wcl Role="Artist" DisplayName="Josiah Johnson Hawes" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC108854.jpg" height="36.0000000000" rank="77" views="376" OnView="0">
+  <o ObjectID="333446" ObjectNumber="2010.467" Dated="1766" DateBegin="1766" DateEnd="1766" Classification="Drawings" Culture="French" Century="18th century">
+    <wt TitleType="Title" Title="Trompe l'Oeil with Prints and a Butterfly">
+      <wcl Role="Artist" DisplayName="Jean-Pierre-Xavier Bidauld" />
+    </wt>
+  </o>
+</object>
+<object Filename="51430.jpg" height="102.0000000000" rank="76" views="376" OnView="0">
+  <o ObjectID="303460" ObjectNumber="1943.454" Dated="1870-1876" DateBegin="1870" DateEnd="1876" Classification="Drawings" Culture="British" Century="19th century">
+    <wt TitleType="Title" Title="The Days of Creation: The First Day">
+      <wcl Role="Artist" DisplayName="Edward Burne-Jones" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC104905.jpg" height="164.0000000000" rank="78" views="375" OnView="0">
+  <o ObjectID="299940" ObjectNumber="1956.62" Dated="1805" DateBegin="1805" DateEnd="1805" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Diana on a Chase">
+      <wcl Role="Artist" DisplayName="Washington Allston" />
+    </wt>
+  </o>
+</object>
+<object Filename="51334.jpg" height="98.0000000000" rank="79" views="369" OnView="1">
+  <o ObjectID="299809" ObjectNumber="1943.229" Dated="1817" DateBegin="1817" DateEnd="1817" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Emmanuel Joseph Sieyès (1748-1836)">
+      <wcl Role="Artist" DisplayName="Jacques-Louis David" />
+    </wt>
+  </o>
+</object>
+<object Filename="53550.jpg" height="48.0000000000" rank="80" views="363" OnView="0">
+  <o ObjectID="310953" ObjectNumber="1895.716" Dated="1876" DateBegin="1876" DateEnd="1876" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Leander's Tower on the Bosporus">
+      <wcl Role="Artist" DisplayName="Sanford Robinson Gifford" />
+    </wt>
+  </o>
+</object>
+<object Filename="75618.jpg" height="57.0000000000" rank="81" views="362" OnView="0">
+  <o ObjectID="311693" ObjectNumber="1970.48" Dated="1898-1901" DateBegin="1898" DateEnd="1901" Classification="Paintings" Culture="American" Century="19th-20th centuries">
+    <wt TitleType="Title" Title="Mt. Fuji with Gravestones">
+      <wcl Role="Artist" DisplayName="Lilla Cabot Perry" />
+    </wt>
+  </o>
+</object>
+<object Filename="51173.jpg" height="76.0000000000" rank="82" views="354" OnView="0">
+  <o ObjectID="304349" ObjectNumber="1943.106" Dated="c. 1730 - 1735" DateBegin="1730" DateEnd="1735" Classification="Paintings" Culture="Italian" Century="18th century">
+    <wt TitleType="Title" Title="Piazza San Marco, Venice">
+      <wcl Role="Artist" DisplayName="Giovanni Antonio Canal, called Canaletto" />
+    </wt>
+  </o>
+</object>
+<object Filename="61537.jpg" height="17.0000000000" rank="83" views="353" OnView="0">
+  <o ObjectID="216021" ObjectNumber="1974.127" Dated="c. 1540" DateBegin="1535" DateEnd="1545" Classification="Paintings with Text" Culture="Indian" Century="16th century">
+    <wt TitleType="Title" Title="Krishna Greets Balarama, below; the Search for the Jewel (painting, recto; text, verso), folio from an album of the Bhagavata Purana (Ancient Stories of the Lord)">
+      <wcl Role="Artist" DisplayName="Unknown Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC100622.jpg" height="46.0000000000" rank="84" views="348" OnView="0">
+  <o ObjectID="4988" ObjectNumber="2006.4" Dated="1822" DateBegin="1822" DateEnd="1822" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Still Life with Watermelon">
+      <wcl Role="Artist" DisplayName="Sarah Miriam Peale" />
+    </wt>
+  </o>
+</object>
+<object Filename="51273.jpg" height="49.0000000000" rank="85" views="347" OnView="0">
+  <o ObjectID="299938" ObjectNumber="1943.515" Dated="1888" DateBegin="1888" DateEnd="1888" Classification="Drawings" Culture="Dutch" Century="19th century">
+    <wt TitleType="Title" Title="Peasant of the Camargue">
+      <wcl Role="Artist" DisplayName="Vincent van Gogh" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC109581.jpg" height="18.0000000000" rank="86" views="344" OnView="0">
+  <o ObjectID="146780" ObjectNumber="BR71.21.23" Dated="March 26, 1929" DateBegin="1929" DateEnd="1929" Classification="Photographs" Culture="German" Century="20th century">
+    <wt TitleType="Title" Title="Bauhaus [Dessau]">
+      <wcl Role="Artist" DisplayName="Lyonel Feininger" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC109306.jpg" height="66.0000000000" rank="87" views="343" OnView="0">
+  <o ObjectID="228930" ObjectNumber="1924.21" DateBegin="0" DateEnd="0" Classification="Paintings" Culture="Italian" Century="15th century">
+    <wt TitleType="Title" Title="The Dead Christ between the Virgin and Saint John the Evangelist">
+      <wcl Role="Artist" DisplayName="Carlo Crivelli" />
+    </wt>
+  </o>
+</object>
+<object Filename="82268.jpg" height="130.0000000000" rank="88" views="340" OnView="0">
+  <o ObjectID="299944" ObjectNumber="H16" Dated="1766" DateBegin="1766" DateEnd="1766" Classification="Paintings" Culture="American" Century="18th century">
+    <wt TitleType="Title" Title="Mrs. Thomas (Sarah Morecock) Boylston, Sr. (1696-1774)">
+      <wcl Role="Artist" DisplayName="John Singleton Copley" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC104087.jpg" height="89.0000000000" rank="89" views="337" OnView="1">
+  <o ObjectID="213930" ObjectNumber="1942.193" Dated="1830" DateBegin="1830" DateEnd="1830" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="The Vanity of the Artist's Dream">
+      <wcl Role="Artist" DisplayName="Charles Bird King" />
+    </wt>
+  </o>
+</object>
+<object Filename="73138.jpg" height="59.0000000000" rank="90" views="334" OnView="0">
+  <o ObjectID="300051" ObjectNumber="1969.1" Dated="1903" DateBegin="1903" DateEnd="1903" Classification="Paintings" Culture="American" Century="19th-20th centuries">
+    <wt TitleType="Title" Title="Miss Alice Kurtz">
+      <wcl Role="Artist" DisplayName="Thomas Cowperthwait Eakins" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC107808.jpg" height="17.0000000000" rank="92" views="332" OnView="0">
+  <o ObjectID="321130" ObjectNumber="2007.189" Dated="c. 1572-1575" DateBegin="1572" DateEnd="1575" Classification="Prints" Culture="German" Century="16th century">
+    <wt TitleType="Title" Title="Portrait of Wenzel Jamnitzer: Goldsmith, Mathematician Instrument Maker">
+      <wcl Role="Artist" DisplayName="Jost Amman" />
+    </wt>
+  </o>
+</object>
+<object Filename="72995.jpg" height="42.0000000000" rank="91" views="332" OnView="0">
+  <o ObjectID="228130" ObjectNumber="1961.159" Dated="1876" DateBegin="1876" DateEnd="1876" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="Woman on a Striped Sofa with a Dog">
+      <wcl Role="Artist" DisplayName="Mary Cassatt" />
+    </wt>
+  </o>
+</object>
+<object Filename="80500.jpg" height="64.0000000000" rank="93" views="330" OnView="0">
+  <o ObjectID="299841" ObjectNumber="1951.46" Dated="c. 1887-1888" DateBegin="1887" DateEnd="1888" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Still Life with Commode">
+      <wcl Role="Artist" DisplayName="Paul Cézanne" />
+    </wt>
+  </o>
+</object>
+<object Filename="51251.jpg" height="55.0000000000" rank="94" views="328" OnView="0">
+  <o ObjectID="299844" ObjectNumber="1943.260" Dated="1867" DateBegin="1867" DateEnd="1867" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Road toward the Farm Saint-Siméon, Honfleur">
+      <wcl Role="Artist" DisplayName="Claude Monet" />
+    </wt>
+  </o>
+</object>
+<object Filename="75723.jpg" height="37.0000000000" rank="96" views="326" OnView="0">
+  <o ObjectID="212674" ObjectNumber="1958.193" Dated="early 19th century" DateBegin="1800" DateEnd="1832" Classification="Calligraphy" Culture="Persian" Century="19th century">
+    <wt TitleType="Title" Title="Qur'anic Phrase in Composition Forming Part of Qur'an 28:88">
+      <wcl Role="Artist" DisplayName="Unknown Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="30074.jpg" height="100.0000000000" rank="95" views="326" OnView="1">
+  <o ObjectID="299861" ObjectNumber="1942.168" Dated="1650-1651" DateBegin="1650" DateEnd="1651" Classification="Paintings" Culture="French" Century="17th century">
+    <wt TitleType="Title" Title="The Holy Family with the Infant Saint John the Baptist and Saint Elizabeth">
+      <wcl Role="Artist" DisplayName="Nicolas Poussin" />
+    </wt>
+  </o>
+</object>
+<object Filename="51644.jpg" height="59.0000000000" rank="97" views="325" OnView="1">
+  <o ObjectID="299832" ObjectNumber="1929.90" Dated="1873" DateBegin="1873" DateEnd="1873" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Cotton Merchants in New Orleans">
+      <wcl Role="Artist" DisplayName="Hilaire-Germain-Edgar Degas" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC105410.jpg" height="11.0000000000" rank="99" views="324" OnView="1">
+  <o ObjectID="161013" ObjectNumber="2002.50.95" Dated="12th century" DateBegin="12" DateEnd="12" Classification="Vessels" Culture="Persian" Century="12th century">
+    <wt TitleType="Title" Title="Bowl with Lobed Rim and Human Faces">
+      <wcl Role="Artist" DisplayName="Unknown Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="21331.jpg" height="111.0000000000" rank="98" views="324" OnView="0">
+  <o ObjectID="231161" ObjectNumber="1929.10" Dated="after 1450" DateBegin="1450" DateEnd="1464" Classification="Sculpture" Culture="Italian" Century="15th century" Description="In engaged wooden frame.  Bottom of frame shows a scene of St. Jerome and lion in cave, coats of arms on either side.  Angels in relief at upper band of frame.  Large metal ring at upper center for hanging.">
+    <wt TitleType="Title" Title="Virgin and Child">
+      <wcl Prefix="After" Role="Artist" DisplayName="Desiderio da Settignano" />
+    </wt>
+  </o>
+</object>
+<object Filename="53632.jpg" height="22.0000000000" rank="100" views="319" OnView="0">
+  <o ObjectID="222185" ObjectNumber="1972.12" Dated="1911-1912" DateBegin="1911" DateEnd="1912" Classification="Paintings" Culture="Spanish" Century="20th century">
+    <wt TitleType="Title" Title="The Pomegranate">
+      <wcl Role="Artist" DisplayName="Pablo Ruiz Picasso" />
+    </wt>
+  </o>
+</object>
+</objects>

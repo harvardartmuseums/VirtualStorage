@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+<object Filename="DDC000072.jpg" height="62.0000000000" rank="1" views="3864" OnView="0">
+  <o ObjectID="299843" ObjectNumber="1951.65" Dated="1888" DateBegin="1888" DateEnd="1888" Classification="Paintings" Culture="Dutch" Century="19th century">
+    <wt TitleType="Title" Title="Self-Portrait Dedicated to Paul Gauguin">
+      <wcl Role="Artist" DisplayName="Vincent van Gogh" />
+    </wt>
+  </o>
+</object>
+<object Filename="30127.jpg" height="110.0000000000" rank="2" views="2890" OnView="0">
+  <o ObjectID="228649" ObjectNumber="1951.53" Dated="1877" DateBegin="1877" DateEnd="1877" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="The Gare Saint-Lazare: Arrival of a Train">
+      <wcl Role="Artist" DisplayName="Claude Monet" />
+    </wt>
+  </o>
+</object>
+<object Filename="51355.jpg" height="72.0000000000" rank="3" views="2678" OnView="1">
+  <o ObjectID="299806" ObjectNumber="1943.251" Dated="1839-1840" DateBegin="1839" DateEnd="1840" Classification="Paintings" Culture="French" Century="19th century">
+    <wt TitleType="Title" Title="Odalisque with a Slave">
+      <wcl Role="Artist" DisplayName="Jean-Auguste-Dominique Ingres" />
+    </wt>
+  </o>
+</object>
+<object Filename="51172.jpg" height="54.0000000000" rank="4" views="2393" OnView="0">
+  <o ObjectID="299794" ObjectNumber="1943.150" Dated="1883 - 1884" DateBegin="1883" DateEnd="1884" Classification="Paintings" Culture="American" Century="19th century">
+    <wt TitleType="Title" Title="The Breakfast Table">
+      <wcl Role="Artist" DisplayName="John Singer Sargent" />
+    </wt>
+  </o>
+</object>
+<object Filename="21476.jpg" height="34.0000000000" rank="5" views="2336" OnView="0">
+  <o ObjectID="299997" ObjectNumber="1965.318" Dated="1903-1904" DateBegin="1903" DateEnd="1904" Classification="Drawings" Culture="Spanish" Century="20th century">
+    <wt TitleType="Title" Title="A Mother and Child and Four Studies of Her Right Hand, 1904; verso:  Self-Portrait Standing, 1903">
+      <wcl Role="Artist" DisplayName="Pablo Ruiz Picasso" />
+    </wt>
+  </o>
+</object>
+<object Filename="78701.jpg" height="140.0000000000" rank="6" views="2005" OnView="0">
+  <o ObjectID="304344" ObjectNumber="BR41.37" Dated="1927" DateBegin="1927" DateEnd="1927" Classification="Paintings" Culture="German" Century="20th century">
+    <wt TitleType="Title" Title="Self-Portrait in Tuxedo">
+      <wcl Role="Artist" DisplayName="Max Beckmann" />
+    </wt>
+  </o>
+</object>
+<object Filename="46867.jpg" height="37.0000000000" rank="7" views="1915" OnView="0">
+  <o ObjectID="219603" ObjectNumber="1981.19" Dated="1749-1750" DateBegin="1749" DateEnd="1750" Classification="Paintings" Culture="German" Century="18th century">
+    <wt TitleType="Title" Title="Portrait of an Old Woman">
+      <wcl Role="Artist" DisplayName="Christian Seybold" />
+    </wt>
+  </o>
+</object>
+<object Filename="21161.jpg" height="72.0000000000" rank="8" views="1672" OnView="0">
+  <o ObjectID="299959" ObjectNumber="1949.76" Dated="c. 1765" DateBegin="1760" DateEnd="1770" Classification="Paintings" Culture="Italian" Century="18th century">
+    <wt TitleType="Title" Title="The Apotheosis of Aeneas">
+      <wcl Role="Artist" DisplayName="Giovanni Battista Tiepolo" />
+    </wt>
+  </o>
+</object>
+<object Filename="49152.jpg" height="27.0000000000" rank="9" views="1613" OnView="0">
+  <o ObjectID="227899" ObjectNumber="1969.83" Dated="early 16th century" DateBegin="1500" DateEnd="1532" Classification="Paintings" Culture="Netherlandish" Century="16th century">
+    <wt TitleType="Title" Title="Woman at Her Toilet">
+      <wcl Role="Artist" DisplayName="Unidentified Artist" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC107004.jpg" height="28.0000000000" rank="10" views="1358" OnView="0">
+  <o ObjectID="330038" ObjectNumber="2008.235" Dated="2005" DateBegin="2005" DateEnd="2005" Classification="Photographs" Culture="Indian" Century="21st century" Description="This series consists of 14 color photographs that depict the artist, Atul Bhalla, slowly submerging himself in the Yamuna River in Delhi. The photographs are vertical in format and intended to be viewed in a linear series which shows the progression of the central figure into the water. The color palette of the series is warm, with a combination of Bhalla's flesh, the calm water surface, which mirrors a bright sky, Bhalla, and a hazy green line of trees on the bank in the background.  The soft quality of the trees and the reflections in the water contrast with the sharply defined contours of the artist's portrait. These light-filled images appear to almost glow on their own, an effect that is likely enhanced by the refracting light passing through the plexiglass face mounting.">
+    <wt TitleType="Title" Title="I Was Not Waving But Drowning II">
+      <wcl Role="Artist" DisplayName="Atul Bhalla" />
+    </wt>
+  </o>
+</object>
+<object Filename="13357.jpg" height="112.0000000000" rank="11" views="1246" OnView="0">
+  <o ObjectID="299993" ObjectNumber="1951.57" Dated="c. 1901" DateBegin="1896" DateEnd="1906" Classification="Paintings" Culture="Spanish" Century="19th-20th centuries">
+    <wt TitleType="Title" Title="Mother and Child">
+      <wcl Role="Artist" DisplayName="Pablo Ruiz Picasso" />
+    </wt>
+  </o>
+</object>
+<object Filename="DDC105909.jpg" height="107.0000000000" rank="13" views="1183" OnView="0">
+  <o ObjectID="323544" ObjectNumber="2007.225" Dated="1970" DateBegin="1970" DateEnd="1970" Classification="Paintings" Culture="American" Century="20th century">
+    <wt TitleType="Title" Title="Summer Orange">
+      <wcl Role="Artist" DisplayName="Joan Snyder" />
+    </wt>
+  </o>
+</object>
+</objects>
