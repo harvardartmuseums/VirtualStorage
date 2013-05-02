@@ -3,6 +3,7 @@
 /* Keyboard commands
     
     Spacebar - turn on the debug screen
+    Enter - save a snapshot of the screen
     L - toggle the lights
     P - toggle the labels
     Left arrow - move the camera center left
@@ -32,7 +33,12 @@ void mouseDragged() {
 void keyPressed() {
   if (keyCode == KeyEvent.VK_SPACE) {
     debug = !debug;
-  }
+  }  
+  
+  //Take a snapshot of the screen
+  if (keyCode == KeyEvent.VK_ENTER) {
+    saveFrame("snapshots/snapshot-####.png");
+  }  
   
   //Dim the lights
   if (keyCode == KeyEvent.VK_L) {

@@ -14,6 +14,11 @@ void keyPressed() {
     debug = !debug;
   }  
   
+  //Take a snapshot of the screen
+  if (keyCode == KeyEvent.VK_ENTER) {
+    saveFrame("snapshots/snapshot-####.png");
+  }
+  
   //Scroll the view left or right
   if (keyCode == KeyEvent.VK_LEFT) {
     artworkPosition+=SCROLL_SPEED;
