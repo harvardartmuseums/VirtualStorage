@@ -6,9 +6,9 @@ How do you make collections available when they are locked away in storage? This
 Requirements
 ============
 
-Processing 1.5.1
-OSCP5 Libraries
-[TouchOSC iOS app](http://hexler.net/software/touchosc)
+Processing 1.5.1<br />
+OSCP5 Libraries<br />
+[TouchOSC iOS app](http://hexler.net/software/touchosc)<br />
 
 Demo
 ====
